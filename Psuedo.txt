@@ -43,3 +43,6 @@ If the current player has all 4 suits of a card:
 	they must make a book
 While a win condition has not been met:
 	Continue playing the game until someone wins
+
+
+//i like go fish too :)
